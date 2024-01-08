@@ -1,0 +1,457 @@
+@media only screen and (max-width: 2300px) {
+   
+}
+
+@media only screen and (max-width: 1900px) {
+    body {
+        padding-top: 7.4rem;
+    }
+
+}
+
+@media only screen and (max-width:1600px) {
+   .container{
+    max-width: 1500px;
+   }
+}
+
+
+@media only screen and (max-width: 1440px) {
+        h1{
+        font-size: 3.8rem;
+        }
+        h2{
+            font-size: 2.8rem;
+        }
+        h3{
+            font-size: 2.2rem;
+        }
+        h4{
+            font-size: 1.8rem;
+        }
+        h5{
+            font-size: 1.1rem;
+        }
+        h6{
+            font-size: 1rem;
+        }
+        
+        .banner_title{
+        font-size: 3.8rem;
+        }
+        .section_title{
+            font-size: 2.8rem;
+        }
+        .container{
+            max-width: 1340px;
+           }
+}
+
+@media only screen and (max-width: 1300px) {
+    h1{
+        font-size: 3.6rem;
+        }
+        h2{
+            font-size: 2.6rem;
+        }
+        h3{
+            font-size: 2.1rem;
+        }
+        h4{
+            font-size: 1.7rem;
+        }
+        h5{
+            font-size: 1rem;
+        }
+        h6{
+            font-size: 1rem;
+        }
+        
+        .banner_title{
+        font-size: 3.6rem;
+        }
+        .section_title{
+            font-size: 2.6rem;
+        }
+        .container{
+            max-width: 1200px;
+           }
+}
+
+@media only screen and (max-width: 1200px) {
+    .container{
+        max-width: 1100px;
+       }
+}
+
+@media only screen and (max-width: 1198px) {
+
+    h1{
+        font-size: 3.4rem;
+        }
+        h2{
+            font-size: 2.4rem;
+        }
+        h3{
+            font-size: 2rem;
+        }
+        h4{
+            font-size: 1.5rem;
+        }
+        h5{
+            font-size: 1rem;
+        }
+        h6{
+            font-size: 0.9rem;
+        }
+        
+        .banner_title{
+        font-size: 3.4rem;
+        }
+        .section_title{
+            font-size: 2.4rem;
+        }
+        .next-arrow,
+        .prev-arrow {
+            height: 50px;
+            width: 50px;
+        }
+        .ranking {
+            padding: 10px;
+            align-items: flex-start;
+            justify-content: center;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+        .ranking-list-score {
+            padding: 0rem 0rem;
+        }
+        .ranking-list {
+            border-bottom: 1px solid white;
+            border-right: none;
+            padding-right: 0rem;
+            padding-bottom: 5px;
+            line-height: 20px;
+            width: 100%;
+        }
+}
+
+@media only screen and (max-width: 1024px) {
+    h1{
+        font-size: 3.4rem;
+        }
+        h2{
+            font-size: 2.4rem;
+        }
+        h3{
+            font-size: 2rem;
+        }
+        h4{
+            font-size: 1.5rem;
+        }
+        h5{
+            font-size: 1rem;
+        }
+        h6{
+            font-size: 0.9rem;
+        }
+        
+        .banner_title{
+        font-size: 3.4rem;
+        }
+        .section_title{
+            font-size: 2.4rem;
+        }
+        .next-arrow,
+        .prev-arrow {
+            height: 40px;
+            width: 40px;
+        }
+        .container{
+            max-width: 990px;
+           }
+}
+
+@media only screen and (max-width: 992px) {
+    .navbar-brand {
+        padding-right: 0.5rem;
+        border-right: none;
+    }
+    .navbar-brand img{
+        max-width: 100px;
+    }
+    body {
+        padding-top: 5.4rem;
+    }
+    h1{
+        font-size: 3.1rem;
+        }
+        h2{
+            font-size: 2.1rem;
+        }
+        h3{
+            font-size: 1.8rem;
+        }
+        h4{
+            font-size: 1.3rem;
+        }
+        h5{
+            font-size: 1rem;
+        }
+        h6{
+            font-size: 0.9rem;
+        }
+        
+        .banner_title{
+        font-size: 3.1rem;
+        }
+        .section_title{
+            font-size: 2.1rem;
+        }
+        .banner_detail {
+            padding: 3rem 0rem 8rem 0rem;
+            padding-bottom: 3rem;
+        }
+        .next-arrow,
+        .prev-arrow {
+            height: 35px;
+            width: 35px;
+        }
+        .tutor_card{
+            flex-direction: column;
+        }
+        .book_demo {
+            margin-top: -80px;
+        }
+        .free-course-video button.slick-next.slick-arrow,
+        .free-course-video button.slick-prev.slick-arrow {
+            height: 50px;
+            width: 50px;
+        }
+}
+
+@media only screen and (max-width: 767px) {
+    .free-course-video button.slick-next.slick-arrow,
+    .free-course-video button.slick-prev.slick-arrow {
+        height: 40px;
+        width: 40px;
+    }
+    .free-course-video button.slick-next {
+        top: -56px;
+    }
+    .free-course-video button.slick-prev.slick-arrow {
+        top: -38px;
+    }
+    h1{
+        font-size: 2.8rem;
+        }
+        h2{
+            font-size: 1.8rem;
+        }
+        h3{
+            font-size: 1.6rem;
+        }
+        h4{
+            font-size: 1.1rem;
+        }
+        h5{
+            font-size: 1rem;
+        }
+        h6{
+            font-size: 0.9rem;
+        }
+        
+        .banner_title{
+        font-size: 2.8rem;
+        }
+        .section_title{
+            font-size: 1.8rem;
+        }
+        .hero_crousol figure{
+    display: none;
+        }
+        .next-arrow {
+            bottom: 0%;
+            left: 52%;
+        }
+        .prev-arrow {
+            bottom: 0%;
+            left:42%;
+        }
+        .course_crousol{
+            padding-bottom: 4rem;
+        }
+        .section_title {
+            padding-bottom: 1rem;
+        }
+        .tutor_card{
+            flex-direction: row;
+        }
+        .book_demo {
+            margin-top: -40px;
+        }
+        .series_crousol .prev-arrow {
+            left: 40%;
+        }
+        .series_crousol .next-arrow {
+            bottom: 0%;
+            left: 48%;
+        }
+        .learning_title {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-direction: row;
+            padding-bottom: 1rem;
+        }
+        .ranking {
+            padding: 10px;
+            align-items: center;
+            justify-content: center;
+            flex-direction: row;
+            gap: 0.5rem;
+        }
+        .ranking-list-score {
+            padding: 0rem 0rem;
+        }
+        .ranking-list {
+            border-right: 1px solid white;
+            border-bottom: none;
+            padding-right: 5px;
+            padding-bottom: 0px;
+            line-height: 20px;
+            width: auto;
+        }
+}
+
+
+@media only screen and (max-width: 575px) {
+    .navigation-pills li.nav-item {
+        margin: 10px 4px 10px 5px;
+    }
+    h1{
+        font-size: 2.3rem;
+        }
+        h2{
+            font-size: 1.3rem;
+        }
+        h3{
+            font-size: 1.2rem;
+        }
+        h4{
+            font-size: 1rem;
+        }
+        h5{
+            font-size: 1rem;
+        }
+        h6{
+            font-size: 0.9rem;
+        }
+        
+        .banner_title{
+        font-size: 2.3rem;
+        }
+        .section_title{
+            font-size: 1.3rem;
+        }
+        .prev-arrow {
+            bottom: 0%;
+            left:35%;
+        }
+        .next-arrow {
+            bottom: 0%;
+            left: 48%;
+        }
+        .learning_box {
+            flex-direction: row;
+            align-items: flex-start;
+            justify-content: flex-start;
+        }
+        .learning_box {
+            text-align: left;
+        }
+        .learning_box .box_detail {
+            padding-top: 0;
+        }
+}
+
+@media only screen and (max-width: 489px) {
+    .free-course-video button.slick-prev.slick-arrow {
+        right: 46px;
+    }
+    .series_crousol .prev-arrow {
+        left: 36%;
+    }
+    .series_crousol .next-arrow {
+        bottom: 0%;
+        left: 45%;
+    }
+    h1{
+        font-size: 2rem;
+        }
+        h2{
+            font-size: 1.1rem;
+        }
+        h3{
+            font-size: 1rem;
+        }
+        h4{
+            font-size: 1rem;
+        }
+        h5{
+            font-size: 1rem;
+        }
+        h6{
+            font-size: 0.9rem;
+        }
+        
+        .banner_title{
+        font-size: 2rem;
+        }
+        .section_title{
+            font-size: 1.1rem;
+        }
+        .tutor_card{
+            flex-direction: column;
+        }
+}
+
+@media only screen and (max-width: 380px) {
+    .learning_box {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .series_crousol .prev-arrow {
+        left: 30%;
+    }
+    .series_crousol .next-arrow {
+        bottom: 0%;
+        left: 40%;
+    }
+    h1{
+        font-size: 1.8rem;
+        }
+        h2{
+            font-size: 1rem;
+        }
+        h3{
+            font-size: 1rem;
+        }
+        h4{
+            font-size: 1rem;
+        }
+        h5{
+            font-size: 1rem;
+        }
+        h6{
+            font-size: 0.9rem;
+        }
+        
+        .banner_title{
+        font-size: 1.8rem;
+        }
+        .section_title{
+            font-size: 1rem;
+        }
+}
